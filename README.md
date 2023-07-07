@@ -14,3 +14,7 @@ Features:-
 5)Background images: This too shows background images related to the current location.
 
 6)Convenience and Ease of Use: The app is designed to be user-friendly and intuitive. With a simple and clean interface, users can easily access the weather information they need, whether it's for their current location or any other city they search for.
+
+Image: Showing the WindWhisk interface.
+
+![image](https://github.com/kumar-amann/WindWhisk/assets/137410641/f3996c06-00f4-4d9d-b013-a757b91954fe)
