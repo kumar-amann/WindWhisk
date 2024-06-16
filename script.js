@@ -33,7 +33,7 @@ let weather = {
       document.querySelector(".weather").classList.remove("loading");
       document.body.style.backgroundImage =
         // "url('https://source.unsplash.com/1600x900/?" + name + "')";
-          "url('landscape.jpeg')";
+          "url('landscape.jpeg.jpg')";
     },
     search: function () {
       this.fetchWeather(document.querySelector(".search-bar").value);
